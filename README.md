@@ -1,14 +1,28 @@
-🧮 Calculadora de Aprendizado Web
-Projeto prático desenvolvido para consolidar fundamentos de Lógica de Programação e Desenvolvimento Front-end.
+# 🧮 Calculadora JS
 
-🧠 O que aprendi neste projeto:
-JavaScript: Estudo de manipulação do DOM e lógica de eventos.
+Uma calculadora moderna, funcional e responsiva desenvolvida para praticar lógica de programação e manipulação do DOM.
 
-Segurança: Implementação de try...catch para tratamento de erros.
+🔗 **[Clique aqui para testar a calculadora online](LINK_DO_SEU_GITHUB_PAGES_AQUI)**
 
-CSS3: Exploração de layouts com CSS Grid e animações suaves (transition).
+## 💻 Sobre o Projeto
+Este projeto foi criado com o objetivo de replicar as funcionalidades de uma calculadora real. O foco principal foi trabalhar com eventos de clique, teclado e tratamento de operações matemáticas no JavaScript.
 
-Lógica: Uso da função eval() para processamento de expressões matemáticas.
+Diferente de calculadoras simples, este projeto trata erros (como divisão por zero) e possui uma interface pensada na experiência do usuário (UX).
 
-🚀 Tecnologias:
-HTML5 / CSS3 / JavaScript (ES6).
+## ✨ Funcionalidades
+* **Operações Básicas:** Soma, subtração, multiplicação e divisão.
+* **Apagar:** Botão "C" (Clear) para limpar tudo e botão de apagar o último dígito.
+* **Teclado:** Funciona tanto clicando na tela quanto digitando os números no teclado do computador.
+* **Design Responsivo:** Layout se adapta perfeitamente a celulares e desktops.
+* **Tratamento de Erros:** Exibe mensagens amigáveis caso ocorra uma operação inválida.
+
+## 🛠️ Tecnologias Utilizadas
+* **HTML5:** Estrutura semântica.
+* **CSS3:** Estilização moderna (Grid/Flexbox) e efeitos de sombra (Neumorphism/Flat).
+* **JavaScript:** Lógica de cálculo e manipulação de eventos.
+
+
+## 🚀 Como rodar localmente
+1.  Clone o repositório.
+2.  Abra o arquivo `index.html` no seu navegador.
+3.  Divirta-se calculando!
