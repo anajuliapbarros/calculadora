@@ -2,7 +2,7 @@
 
 Uma calculadora moderna, funcional e responsiva desenvolvida para praticar lógica de programação e manipulação do DOM.
 
-🔗 **[Clique aqui para testar a calculadora online](LINK_DO_SEU_GITHUB_PAGES_AQUI)**
+🔗 **[Clique aqui para testar a calculadora online](https://anajuliapbarros.github.io/calculadora/)**
 
 ## 💻 Sobre o Projeto
 Este projeto foi criado com o objetivo de replicar as funcionalidades de uma calculadora real. O foco principal foi trabalhar com eventos de clique, teclado e tratamento de operações matemáticas no JavaScript.
